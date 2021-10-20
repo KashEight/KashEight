@@ -7,6 +7,7 @@
 
 - Desktop: Windows 10 Pro
 - Laptop: Macbook Pro 2020 13-inch, Ubuntu 20.04, (not working) Arch Linux
+- Server: Gentoo Linux
 
 ### 🚧 Infrastructures:
 
