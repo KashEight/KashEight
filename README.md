@@ -12,6 +12,7 @@
 ### 🚧 Infrastructures:
 
 - Docker, Linux
+- Kubernetes
 - Networks
 
 ### 💡 Others:
